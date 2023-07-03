@@ -12,7 +12,6 @@ import csv
 import pandas as pd
 import streamlit as st
 
-import fuzzywuzzy
 from fuzzywuzzy import fuzz
 
 from google.auth.transport.requests import Request
